@@ -10,9 +10,8 @@ status: live
 website: https://audius.co/
 twitter: https://twitter.com/AudiusProject
 telegram: https://t.me/Audius
-discord: https://discordapp.com/invite/4dbvdsF
+discord: https://discord.com/invite/yNUg2e2
 ---
-
 Audius is the latest project to move over to Solana and has been growing rapidly, now with over 1 million monthly listeners. However, as their active users have increased, so have the gas fees and load times. Audius is creating a fully decentralized community of artists, developers, and listeners collaborating to share and defend the world's music.
 
 Using Audius, creators can generate immutable and time-stamped records for creative works and register assets to the Audius network, because the network is decentralized and secured by blockchain.

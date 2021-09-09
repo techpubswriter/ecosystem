@@ -12,5 +12,4 @@ twitter: https://twitter.com/bandprotocol
 telegram: https://t.me/bandprotocol
 discord: https://discord.com/invite/3t4bsY7
 ---
-
-Band Protocol is a decentralized, permissionless blockchain protocol for decentralized data curation. We create token-curated registries and communities--each with its own community token. Communities are banded with open and reliable data source.
+Band Protocol is a decentralized, permissionless blockchain protocol for decentralized data curation. We create token-curated registries and communities--each with its own community token. Communities are banded with open and reliable data source. Band Protocol Ensures Interoperability between Smart Contracts and the Rest of the World. Band Protocol offers a decentralized oracle service that is secure by crypto-economics design, affordable, and easy-to-integrate for developers.
