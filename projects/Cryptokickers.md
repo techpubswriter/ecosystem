@@ -1,15 +1,14 @@
 ---
 slug: "cryptokickers"
-date: "2021-07-05"
+date: "2021-03-01"
 title: "Crypto Kickers"
-logline: "Crypto Kickers are custom NFT sneakers."
+logline: "Crypto kickers is a footwear for the new World and it is a Sol selector on Solana and verified on OpenSea."
 cta: "https://www.cryptokickers.com"
-logo: /img/cryptokickers.jpg
+logo: /img/cryptokickers.svg
 category: metaplex, nft
 status: live
-website: www.cryptokickers.com
-twitter: https://twitter.com/cryptokickers
-discord: https://discord.com/invite/vmXvKcx2QQ
+Website: https://www.cryptokickers.com
+Twitter: https://twitter.com/cryptokickers
+Discord: https://discord.com/invite/vmXvKcx2QQ
 ---
-
-Create, customize, and mint your own NFT sneakers directly on the Solana blockchain.
+Crypto kickers is a footwear for the new World and it is a Sol selector on Solana and verified on OpenSea.
